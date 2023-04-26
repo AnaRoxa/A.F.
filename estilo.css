@@ -1,0 +1,39 @@
+.cabec {position: absolute;
+    width: 1624px;
+    height: 188px;
+    left: 0px;
+    top: 0px;
+    
+    background: #9734F9;
+}
+    .tex {
+        position: absolute;
+        width: 557px;
+        height: 136px;
+        left: 481px;
+        top: 63px;
+        
+        font-family: 'Cherry Bomb';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 48px;
+        line-height: 48px;
+        
+        color: #520D89;
+    }
+        .img1 {position: absolute;
+            width: 61px;
+            height: 53px;
+            left: 445px;
+            top: 41px;
+            
+            background: url(borboleta_clipdrop-background-removal.png);
+        }
+            .img2 {position: absolute;
+                width: 93px;
+                height: 60px;
+                left: 951px;
+                top: 34px;
+                
+                background: url(borboleta_clipdrop-background-removal (1).png);
+            }
